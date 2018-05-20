@@ -17,6 +17,10 @@ post office
 flower shop
 parking lot
 
+Street		St.
+Avenue		Ave.
+Boulevard	Blvd.
+
 - Neighborhood
 a block
 a corner(
@@ -32,6 +36,12 @@ across from
 between
 around the corner from
 behind
+
+(
+	Is there a pharmacy in the neighborhood?
+	Is there a supermarket on this block?
+	Is there a gas station near here?
+)
 
 - Directions
 go straight     go straight for two blocks
