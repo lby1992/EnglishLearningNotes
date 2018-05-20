@@ -3,7 +3,7 @@ hamburger
 sandwich
 chicken
 fish
-salad
+salad       a cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing and sometimes accompanied by meat, fish, or other ingredients.
 fries       an order of fries
 water       a glass of water
 milk
@@ -20,6 +20,13 @@ beef
 pork
 meat
 cheese
+turkey
+tomato
+lettuce
+
+- Status
+hungry		feeling or displaying the need for food.
+thirsty		feeling a need to drink something.
 
 - Restaurant occupations
 server      serves food
