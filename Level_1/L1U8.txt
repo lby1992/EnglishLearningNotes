@@ -1,0 +1,35 @@
+- Food
+hamburger
+sandwich
+chicken
+fish
+salad
+fries       an order of fries
+water       a glass of water
+milk
+coffee      a cup of coffee
+soda
+pie
+orange
+apple
+fruit
+carrot
+celery
+vegetables
+beef
+pork
+meat
+cheese
+
+- Restaurant occupations
+server      serves food
+    Excuse me, are you ready to order?
+    Yes, I am. Please bring me a hamburger.
+    Anything to drink?
+    Yes, please bring me some water./No, thank you.
+    Would you like some coffee?
+    Yes, please./No, thank you.
+busboy      clears tables
+dishwasher  washes dishes
+cook        cooks food
+manager     manages the restaurant

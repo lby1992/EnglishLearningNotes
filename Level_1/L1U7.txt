@@ -1,0 +1,46 @@
+- Places
+bank
+gas station
+hair salon
+hospital
+hotel
+park
+restaurant
+school
+super market
+laundromat          an establishment with coin-operated washing machines and dryers for public use
+pharmacy            a store where medicinal drugs are dispensed and sold.
+police station
+movie theater
+fire station
+post office
+flower shop
+parking lot
+
+- Neighborhood
+a block
+a corner(
+    the gas station is on Vista Avenue
+    the gas station is at 9614 Vista Avenue
+    the police station is on the corner of Vista Avenue and Main Street
+    )
+    for streets we say `on`. (on Oak Street)
+    for address we say `at`. (at 2254 Oak Street)
+   
+next to
+across from
+between
+around the corner from
+behind
+
+- Directions
+go straight     go straight for two blocks
+turn right      turn right on Vista Avenue
+(
+    How do I get to the park from here?
+    Go straight for three blocks, turn left on Vista Avenue, the park is across from the library.
+)
+(
+    I'm at the park, I want to go to the post office.
+    Go straight on Sixth Avenue, turn left on Elm Street, go straight for two blocks, turn right on Eighth Avenue, the post office is next to the bank.
+)

@@ -1,0 +1,42 @@
+- Family
+mother
+father
+parents
+wife
+husband 
+son
+daughter
+children
+grandmother
+grandfather
+grandparent
+granddaughter
+grandson
+grandchildren
+brother
+sister
+niece   a daughter of one's brother or sister, or of one's brother-in-law or sister-in-law
+nephew  a son of one's brother or sister, or of one's brother-in-law or sister-in-law
+aunt    the sister of one's father or mother or the wife of one's uncle.
+uncle   the brother of one's father or mother or the husband of one's aunt.
+cousin  a child of one's uncle or aunt.
+
+- Marital Status
+single
+married
+divorced    legally dissolve one's marriage with (someone).
+widowed     make into a widow or widower.
+
+- School
+principal   the person with the highest authority or most important position in an organization, institution, or group.
+teacher
+librarian   a person, typically with a degree in library science, who administers or assists in a library
+office clerk
+janitor     a person employed as a caretaker of a building; a custodian
+office
+principal's office
+classroom
+library
+cafeteria   a restaurant or dining room in a school or a business in which customers serve themselves or are served from a counter and pay before eating.
+bathroom
+the hallway

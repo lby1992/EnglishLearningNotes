@@ -1,0 +1,15 @@
+- Money
+a penny         1 cent
+a nickel        5 cents
+a dime          10 cents
+a quarter       25 cents
+half dollar     50 cents
+a dollar        1 dollar
+fifty dollar    50 dollars
+receipt
+sales tax       a tax on sales or on the receipt from sales, it's the actual money you paid to the government
+
+- Store
+front entrance  front door
+aisle           a passage between rows of seats in a building such as a church or theater, an airplane, or a train.
+restroom
