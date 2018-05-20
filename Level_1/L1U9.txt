@@ -1,0 +1,76 @@
+- Commands
+stand up
+raise your hand
+put your hand down
+look up
+look down
+sit down
+smile
+pick up
+
+(
+	put the bread in the toaster
+	put the cup on the table
+	put the mat under the plate
+	put the fork next to the knife
+	put the water into the glass
+	take the trash out
+	put the umbrella over your head
+)
+
+(
+	put the paper in your notebook
+	put the paper on your notebook
+	put the paper under your notebook
+	put the paper next to your notebook
+	put the paper into your notebook
+	take the paper out
+	put the paper over your notebook
+)
+
+(
+	put the spoon in the cup
+	take the spoon out of the cup
+	put the spoon under the cup
+	put the spoon over the cup
+	put the spoon next to the cup
+)
+
+- Earthquake emergency kit
+blanket
+shoes
+first aid kit
+medicine
+flashlight	extra batteries
+water
+food
+
+- Earthquake safty
+* during
+drop and hold
+cover your head
+pull over and stop (driving)
+* after
+give first aid
+take the stairs, don't take the elevator
+go to an open area
+if necessary, call 911 for emergency assistance
+
+- Signs in the workplace
+caution
+wet floor
+no smoking
+do not enter
+notice
+wash your hands
+
+- Prepositions
+on	(the ball is on the box)
+in	(the ball is in the box)
+under	(the ball is under the box)
+over	(the ball is over the box)
+next to	(the ball is next to the box)
+into	(the ball is going into the box)
+out	(the ball is coming out of the box)
+up	(the ball is going up)
+down	(the ball is coming down)

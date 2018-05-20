@@ -1,23 +1,37 @@
 - Unit 1 - introductions, letters, alphabet:
+
 [video](https://www.youtube.com/watch?v=capHNO_iMIU)
 
 - Unit 2 - numbers, date, time, zipcode, phone, address: 
+
 [video](https://www.youtube.com/watch?v=I_btBhwEJfU)
 
 - Unit 3 - ordinal numbers, months, date, week, phone message:
+
 [video](https://www.youtube.com/watch?v=IVUSk9dUMCU)
 
 - Unit 4 - countries, nationalities, holidays, party:
+
 [video](https://www.youtube.com/watch?v=qmQMLy6w1-Q)
 
 - Unit 5 - family, marical status, school:
+
 [video](https://www.youtube.com/watch?v=Wg2r40ncNaY) ,  [note](L1U5.txt)
 
 - Unit 6 - money, ask for the prices of things, ask for locations in the store:
+
 [video](https://www.youtube.com/watch?v=EjbHq26l0pU) , [note](L1U6.txt)
 
 - Unit 7 - places in the neighborhood, give directions:
+
 [video](https://www.youtube.com/watch?v=2HKrjVjlwQ8) , [note](L1U7.txt)
 
 - Unit 8 - food, order food in restaurant, people work in the restaurant:
+
 [video](https://www.youtube.com/watch?v=YbiwIEltRHM) , [note](L1U8.txt)
+
+- Unit 9 - commands, prepare for an earthquake:
+
+[video](https://www.youtube.com/watch?v=eo_YuFcUcas) , [note](L1U9.txt)
+
+
