@@ -1,0 +1,49 @@
+- Body parts
+ear(s)
+head
+eye(s)
+mouth
+nose
+neck		the part of a person's or animal's body connecting the head to the rest of the body.
+throat		the passage that leads from the back of the mouth of a person or animal.
+shoulders
+arm
+elbow		the joint between the forearm and the upper arm.
+hand
+finger
+back
+stomach		the internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the esophagus to the small intestine.
+leg
+foot(feet)
+knee		the joint between the thigh and the lower leg in humans.
+toe(s)
+
+- Different aches and pains
+headache
+stomachache
+sore throat		a condition marked by pain in the throat, typically caused by inflammation due to a cold or other virus.
+earache
+backache
+
+(
+	Are you feeling okay?
+	No, not really.
+	What's the matter?
+	I have a headache.
+	Oh, I am sorry to hear that.
+)
+
+- Emergencies
+accident
+ambulance		a vehicle specially equipped for taking sick or injured people to and from the hospital, especially in emergencies.
+fire truck
+
+(
+	Nine-one-one, what's the emergency?
+	My neighbor's house is on fire.
+	What's the address?
+	1497 Lemmon Avenue.
+	What's your name?
+	My name is Richard Jordan.
+	A fire truck is on the way, please stay on the line until it arrvies.
+)
