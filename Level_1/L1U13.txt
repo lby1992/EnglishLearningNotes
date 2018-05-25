@@ -31,6 +31,16 @@ applicant
 	Sure.
 )
 
-- Positions
+- More positions
 mail carrier		A mail carrier delivers the mail.
+bus driver		A bus driver drives a bus.
+mechanic		A mechanic fixes cars.
+custodian		A custodian cleans buildings.
+dentist			A dentist takes care of your teeth.
+plumber			A plumber fixes pipes.
+construction worker	A construction worker builds buildings.
+computer programmer	A computer programmer programs computers.
+painter			A painter paints houses.
+gardener		A gardener works in a garden.
+electrician		An electrician fixes electrical problems.
 
