@@ -1,0 +1,53 @@
+- Clothes
+necklace
+earrings
+jewelry		necklace, earrings
+jeans
+T-shirt
+dress
+skirt
+sweater
+blouse
+jacket
+hat
+suit
+sneakers
+sandals
+shoes
+
+- Colors
+white
+black
+gray
+red
+blue
+purple
+pink
+green
+yellow
+orange
+brown
+
+- Interview
+neat		
+sloppy		must not be sloppy
+clean
+dirty		must not be dirty
+
+Don't be late.
+Don't be rude.
+Pay attention to the boss, don't yawn.
+Turn off your cellphone.
+Be on time.
+Shake hands.
+Must smile.
+Make eye contact
+Be polite.
+
+- Sizes
+small
+medium
+large
+extra-large
+
+

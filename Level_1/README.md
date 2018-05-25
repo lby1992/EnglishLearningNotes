@@ -49,3 +49,8 @@
 - Unit 13 - find a job
 
 [video](https://www.youtube.com/watch?v=izE52r2rY5g) , [note](L1U13.txt)
+
+- Unit 14 - clothing, prepare for a job interview
+
+[video](https://www.youtube.com/watch?v=NK99cN00e14) , [note](L1U14.txt)
+
