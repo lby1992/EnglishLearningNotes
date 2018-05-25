@@ -42,3 +42,10 @@
 
 [video](https://www.youtube.com/watch?v=H2IOnFyZKAo), [note](L1U11.txt)
 
+- Unit 12 - work and jobs, can('t), how to talk about your feature plans
+
+[video](https://www.youtube.com/watch?v=nqfq9Py3CjQ) , [note](L1U12.txt)
+
+- Unit 13 - find a job
+
+[video](https://www.youtube.com/watch?v=izE52r2rY5g) , [note](L1U13.txt)

@@ -1,0 +1,38 @@
+- Jobs
+(
+What do you do?
+I'm a developer.
+What do you do at work?
+I build apps.
+)
+teacher
+busboy		pour the water and clean the tables
+hair stylist	shampoo hair and cut hair
+housekeeper	take care of children and then clean the house
+unemployed
+office worker	type, file, answer the phone, fax, make copies and so on
+receptionist	answers phones
+doctor
+nurse		helps sick people
+clerk		office clerk
+secretary	
+cook		cooks food (make chicken, bake a cake, and so one)
+cashier		count money and give people the change
+musician	plays music (play the guitar, play the trumpet, and so on)
+help wanted
+
+- Work
+attitude
+Yes, I can.
+No, I can't.
+But I can learn
+
+- Plans
+(
+Right now I'm a server. In the future, I want to be a cook.
+Right now I'm a janitor. In the future, I want to be a doctor.
+Right now I'm a busboy. In the future, I want to be a server.
+Right now I'm a housekeeper. In the future, I want to be a nurse.
+Right now I'm a hair stylist. In the future, I want to be the owner of a hair salon.
+)
+
