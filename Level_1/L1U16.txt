@@ -1,0 +1,31 @@
+- Office equipments
+pencil sharpener
+eletric pencil sharpener
+computer
+fax machine
+copier
+shredder
+phone
+printer
+
+- Ask for help at work
+Can you help me (with the phone)?
+It dosen't work.
+
+(
+	Can you help me with the fax machine?
+	Sure. First, you have to put in the paper. Next, dial the number. After that, press send.
+)
+(
+	Can you help me with the copier? I think it is broken.
+	It's not broken. First, you have to turn it on. Next, you have to put the original on the glass. After that, press copy.
+	Thank you.
+)
+
+- Instructions
+shred this paper.
+open that file cabinet
+print this document
+fax that page
+copy this picture
+answer that phone

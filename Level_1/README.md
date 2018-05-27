@@ -58,3 +58,6 @@
 
 [video](https://www.youtube.com/watch?v=hNITkdqjqJI) , [note](L1U15.txt)
 
+- Unit 16 - names of some office equipments, ask help at work, give and follow instructions on the job
+
+[video](https://www.youtube.com/watch?v=BuExVio8YmY) , [note](L1U16.txt)
