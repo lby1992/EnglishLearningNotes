@@ -66,3 +66,7 @@
 
 [video](https://www.youtube.com/watch?v=jtsfzSMRLe0) , [note](L1U17.txt)
 
+- Unit 18 - furniture in a home, how to describe things
+
+[video](https://www.youtube.com/watch?v=H9326CDWAqs) , [note](L1U18.txt)
+

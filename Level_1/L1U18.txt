@@ -1,0 +1,48 @@
+- Furniture
+
+(living room)
+sofa
+coffee table
+chair
+bookcase
+lamp
+television
+plant
+painting
+curtains
+
+(bedroom)
+bed
+dresser
+night table
+
+(kitchen)
+stove
+sink
+refrigerator
+mircowave
+
+- Prepositions
+next to
+on the left
+on the right
+in front of
+in back of
+in between
+on
+under
+above
+
+- Describe
+big
+medium
+small
+old
+new
+expensive
+cheap
+in good condition
+
+- Garage sale
+reasonable price
+in excellent condition
