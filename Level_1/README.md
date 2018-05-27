@@ -61,3 +61,8 @@
 - Unit 16 - names of some office equipments, ask help at work, give and follow instructions on the job
 
 [video](https://www.youtube.com/watch?v=BuExVio8YmY) , [note](L1U16.txt)
+
+- Unit 17 - names of rooms in the home, ask questions about a house or apartment for rent
+
+[video](https://www.youtube.com/watch?v=jtsfzSMRLe0) , [note](L1U17.txt)
+

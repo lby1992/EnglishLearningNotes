@@ -1,0 +1,49 @@
+ - In a house or an apartment
+bedroom
+bathroom
+kitchen
+living room
+dinning room
+garage
+yard
+(swimming) pool
+balcony
+gate
+the front door
+elevator
+roof
+sidewalk
+laundry room
+porch
+
+- For rent sign
+2 bdrm apt	2 bedrooms apartment
+1 ba		1 bathroom
+$900/month
+call mgr	call the manager
+nr schools	near schools
+AC		air conditioning
+
+- Questions for rent
+(
+	F: Hello.
+	M: Hello, is Frank there?
+	F: This is Frank.
+	M: Hi, my name is Maria Miller, I'm calling about the apartment for rent, I have a few questions.
+	F: Sure, what do you want to know?
+	M: How many bedrooms does it have?
+	F: It has one bedroom.
+	M: Does the apartment have a balcony?
+	F: Yes, it does.
+	M: Is there a swimming pool?
+	F: No, there isn't.
+	M: How much is the rent?
+	F: It's $800/month.
+	M: When is the apartment avaliable?
+	F: The apartment is avaliable immediately.
+	M: Oh, when can I see it?
+	F: You can see it tomorrow at 3:30.
+	M: Okay.
+	F: Do you have the address?
+	M: Yes, I passed your apartment building when I take the bus.
+)
