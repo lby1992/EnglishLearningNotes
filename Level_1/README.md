@@ -70,3 +70,6 @@
 
 [video](https://www.youtube.com/watch?v=H9326CDWAqs) , [note](L1U18.txt)
 
+- Unit 19 - kinds of transportation, rules of the road, ues a bus schedule
+
+[video](https://www.youtube.com/watch?v=WAwsxEVzxQU) , [note](L1U19.txt)

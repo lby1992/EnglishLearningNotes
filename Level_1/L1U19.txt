@@ -1,0 +1,42 @@
+- Transportation
+bicycle
+motocycle
+car
+bus
+truck
+limousine
+train
+metro rail
+plane
+boat
+walk
+
+(
+	How do you get to school.
+	I drive the car./ I ride a bicycle./ I take the bus.
+)
+
+pedestrian	a person who walks to school, or walks to work, or walks in the city
+driver		a person who drives
+bus driver	a person who drives a bus
+
+- The rules of the road
+road signs
+speed limit sign	(on a highway)
+do not enter
+one way
+no parking
+no left turn
+no right turn
+no U-turn
+stop
+
+- Bus schedules
+		First St.	White St.	Wilson St.
+Main St.	8:30		8:45		9:00
+
+- Directions
+north
+south
+east
+west
