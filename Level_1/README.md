@@ -73,3 +73,8 @@
 - Unit 19 - kinds of transportation, rules of the road, ues a bus schedule
 
 [video](https://www.youtube.com/watch?v=WAwsxEVzxQU) , [note](L1U19.txt)
+
+- Unit 20 - weather, different recreational activities
+
+[video](https://www.youtube.com/watch?v=-aMGQlKaqLQ) , [note](L1U20.txt)
+

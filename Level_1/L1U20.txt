@@ -1,0 +1,28 @@
+- Weather
+weather forecast
+sunny and clear
+windy
+cloudy
+rain(y)
+snow(y)
+foggy
+smoggy		dirty air
+stormy
+cool
+cold
+
+- Seasons
+spring		cool and windy
+summer		hot and sunny
+fall/autumn	cool and cloudy
+winter		cold
+
+- What're they doing
+singing
+playing tennis
+dancing
+laughing
+drinking some soda
+eating some chips
+playing a game
+
